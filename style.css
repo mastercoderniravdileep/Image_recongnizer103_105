@@ -1,0 +1,21 @@
+body{
+    background: rgb(85, 85, 199);
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera {
+    border: 2px dotted rgb(194, 194, 81);
+    width: 350px;
+    height: 300px;
+}
+
+p{
+    color: rgb(234, 112, 112);
+}
+b{
+    color: rgb(92, 230, 230);
+}
